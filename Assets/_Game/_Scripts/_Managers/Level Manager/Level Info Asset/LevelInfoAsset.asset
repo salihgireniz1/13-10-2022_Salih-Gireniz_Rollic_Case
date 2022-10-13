@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 792d3ce932983da479e0502f10ef1215, type: 3}
+  m_Name: LevelInfoAsset
+  m_EditorClassIdentifier: 
+  levelInfos:
+  - levelPrefab: {fileID: 5418650328932289263, guid: d94ee54eebbe3df42a34bcabc995b719, type: 3}
+    passAmount: 8
+    unitLength: 57
+  - levelPrefab: {fileID: 5418650328932289263, guid: 3465cc7ca631aa441b1544a0643c1e4f, type: 3}
+    passAmount: 10
+    unitLength: 57
+  - levelPrefab: {fileID: 5418650328932289263, guid: f1077a7ed24a7c04ea8c3c0bb89ceb43, type: 3}
+    passAmount: 12
+    unitLength: 57
+  - levelPrefab: {fileID: 5418650328932289263, guid: 18bdb9cdbe2dc8f4c9d8f78def9865e9, type: 3}
+    passAmount: 14
+    unitLength: 57
+  - levelPrefab: {fileID: 5418650328932289263, guid: 0e161a8c94192534c986ee5c60f5d753, type: 3}
+    passAmount: 20
+    unitLength: 57
+  - levelPrefab: {fileID: 5418650328932289263, guid: 12e3c1c0254e29949a97ee467ee49e56, type: 3}
+    passAmount: 24
+    unitLength: 57
+  - levelPrefab: {fileID: 5418650328932289263, guid: bb06ed8301fb1f04897dc1e0704a2780, type: 3}
+    passAmount: 18
+    unitLength: 57
+  - levelPrefab: {fileID: 5418650328932289263, guid: 85192ebf222599b48ac5f100e618606e, type: 3}
+    passAmount: 25
+    unitLength: 57
+  - levelPrefab: {fileID: 5418650328932289263, guid: 811e798e3be8b9e48910476044443cd2, type: 3}
+    passAmount: 30
+    unitLength: 57
+  - levelPrefab: {fileID: 5418650328932289263, guid: 524e1689f80282b488ac908a07c708f8, type: 3}
+    passAmount: 50
+    unitLength: 57
