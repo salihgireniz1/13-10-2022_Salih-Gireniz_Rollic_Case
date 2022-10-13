@@ -2,8 +2,8 @@ using UnityEngine;
 
 public interface ILimitPosition
 {
-    public float BotBorder { get; }
-    public float TopBorder { get; }
+    float BotBorder { get; }
+    float TopBorder { get; }
 
     /// <summary>
     /// Limit the objects position.

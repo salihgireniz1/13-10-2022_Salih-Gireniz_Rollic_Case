@@ -5,7 +5,7 @@ public interface IGenerateLevel
     /// <summary>
     /// Start position of the prefab.
     /// </summary>
-    public Vector3 SpawnPosition { get; }
+    Vector3 SpawnPosition { get; }
 
     /// <summary>
     /// Spawn a level object.

@@ -1,4 +1,4 @@
 ﻿internal interface IBall
 {
-    public int FillAmount { get; }
+    int FillAmount { get; }
 }

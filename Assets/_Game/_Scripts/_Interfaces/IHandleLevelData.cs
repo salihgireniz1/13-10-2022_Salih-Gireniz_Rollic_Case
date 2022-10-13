@@ -4,7 +4,7 @@ using UnityEngine;
 
 public interface IHandleLevelData
 {
-    public int CurrentLevel { get; }
+    int CurrentLevel { get; }
     void SaveLevel();
     int GetCurrentLevel();
     void IncreaseLevel();

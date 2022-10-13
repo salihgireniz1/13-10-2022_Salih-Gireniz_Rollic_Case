@@ -4,6 +4,6 @@ using UnityEngine;
 
 public interface IHandleLevelInfo
 {
-    public LevelInfoAsset LevelInfoAsset { get; }
+    LevelInfoAsset LevelInfoAsset { get; }
     LevelInfo GetLevelInfo(int levelIndex);
 }
